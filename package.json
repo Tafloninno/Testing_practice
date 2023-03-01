@@ -1,0 +1,23 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tafloninno/Testing_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tafloninno/Testing_practice/issues"
+  },
+  "homepage": "https://github.com/Tafloninno/Testing_practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
