@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1677669378196" clover="3.2.0">
-  <project timestamp="1677669378196" name="All files">
-    <metrics statements="9" coveredstatements="8" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="2" elements="15" coveredelements="13" complexity="0" loc="9" ncloc="9" packages="1" files="2" classes="2"/>
+<coverage generated="1677670405765" clover="3.2.0">
+  <project timestamp="1677670405765" name="All files">
+    <metrics statements="16" coveredstatements="15" conditionals="6" coveredconditionals="5" methods="6" coveredmethods="6" elements="28" coveredelements="26" complexity="0" loc="16" ncloc="16" packages="1" files="3" classes="3"/>
+    <file name="calculator.js" path="/Users/mugishainnocent/Documents/Testing_practice/calculator.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="11" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="2" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
     <file name="reverseString.js" path="/Users/mugishainnocent/Documents/Testing_practice/reverseString.js">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
