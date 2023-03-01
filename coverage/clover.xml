@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1677670405765" clover="3.2.0">
-  <project timestamp="1677670405765" name="All files">
-    <metrics statements="16" coveredstatements="15" conditionals="6" coveredconditionals="5" methods="6" coveredmethods="6" elements="28" coveredelements="26" complexity="0" loc="16" ncloc="16" packages="1" files="3" classes="3"/>
+<coverage generated="1677670659108" clover="3.2.0">
+  <project timestamp="1677670659108" name="All files">
+    <metrics statements="24" coveredstatements="23" conditionals="10" coveredconditionals="9" methods="7" coveredmethods="7" elements="41" coveredelements="39" complexity="0" loc="24" ncloc="24" packages="1" files="4" classes="4"/>
     <file name="calculator.js" path="/Users/mugishainnocent/Documents/Testing_practice/calculator.js">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
       <line num="3" count="3" type="stmt"/>
@@ -11,6 +11,17 @@
       <line num="14" count="2" type="stmt"/>
       <line num="18" count="3" type="stmt"/>
       <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="/Users/mugishainnocent/Documents/Testing_practice/capitalize.js">
+      <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="6" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
     </file>
     <file name="reverseString.js" path="/Users/mugishainnocent/Documents/Testing_practice/reverseString.js">
       <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
